@@ -1,9 +1,10 @@
 {
-  "name": "waxpost-firefox",
-  "title": "waxpost-firefox",
+  "name": "weasyl-crossposter",
+  "title": "Weasyl Crossposter",
   "id": "jid1-6BOwRPZVs8IqTw",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
+  "description": "Crosspost your content from popular art websites to Weasyl.com",
+  "author": "Lupus le Dragon",
+  "icon": "icon-48.png",
+  "license": "TBA",
   "version": "0.1"
 }
